@@ -486,7 +486,7 @@ EXHIBIT B -Zimbra Public License.
      the Zimbra logo is within the Original Code. When users click on the
      original Zimbra logo it must direct them to http://www.zimbra.com, and
      when users click on the "Zimbra Inside" logo it must direct them to
-     http://www.zimbra.com/inside. Moreover, the obligations of this
-     Exhibit B must be explicitly transferred to all subsequent recipients
-     by the terms of any alternative license to an Executable version of
-     Covered Code provided for under Section 3.6.
+     http://www.zimbra.com/inside.  This obligation shall also apply to any
+     copies or derivative works which are distributed under the alternative
+     terms of Section 3.6 and this obligation must be included in any such
+     license.
