@@ -1,3 +1,4 @@
+----------------------------------------------------------------------
 PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE.
 SYNACOR, INC. ("SYNACOR") WILL ONLY LICENSE THIS SOFTWARE TO YOU IF YOU
 FIRST ACCEPT THE TERMS OF THIS AGREEMENT. BY DOWNLOADING OR INSTALLING
@@ -7,3 +8,4 @@ AGREEMENT, THEN DO NOT DOWNLOAD, INSTALL OR USE THE PRODUCT.
 
 License Terms for this Zimbra Collaboration Suite Software:
 https://www.zimbra.com/license/zimbra-public-eula-2-6.html
+----------------------------------------------------------------------
